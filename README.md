@@ -1,8 +1,9 @@
 <h2 align="center">Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JemmaPhillips&layout=compact&theme=radical&custom_title=Most%20Used%20Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JemmaPhillips&theme=radical" />
 </p>
+
 
 <!--
 **JemmaPhillips/JemmaPhillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
