@@ -1,7 +1,7 @@
 <h2 align="center">Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JemmaPhillips&layout=compact&theme=radical&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JemmaPhillips&layout=compact&theme=radical&custom_title=Most%20Used%20Languages"/>
 </p>
 
 <!--
